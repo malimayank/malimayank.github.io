@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malimayank&label=Profile%20views&color=0e75b6&style=flat" alt="malimayank" />
-  <img src="https://github-profile-trophy.vercel.app/?username=malimayank&theme=darkhub&row=1&column=6" alt="malimayank" width="400"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=malimayank&theme=darkhub&row=1&column=6" alt="malimayank" width="600"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@
 ## 🏆 Achievements & Contributions
 <p align="center">
   <a href="https://holopin.io/@mayanksundesha">
-    <img src="https://holopin.me/mayanksundesha" alt="Holopin Badges" width="350"/>
+    <img src="https://holopin.me/mayanksundesha" alt="Holopin Badges" width="700"/>
   </a>
 </p>
 
