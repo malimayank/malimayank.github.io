@@ -8,39 +8,58 @@
 
 ---
 
-## 🔭 About Me
-- Currently working on **enhancing my Python and Data Science skills**.  
-- Passionate about **data analysis, machine learning, and predictive modeling**.  
-- Interested in **solving real-world problems with data-driven solutions**.
-
----
-
-## 🌱 What I’m Learning
-- Python, Pandas, NumPy, Matplotlib, Seaborn  
-- Machine Learning & Data Visualization  
-- Building real-world Data Science projects
-
----
-
-## 👯 Collaboration
-- Open to collaborate on **beginner to intermediate Data Science projects**.  
-- Looking for guidance on **Data Science concepts and best practices**.
-
----
-
-## 💬 Ask Me About
-Python, Data Analysis, Machine Learning, Data Visualization, Pandas, NumPy
-
----
-
-## ⚡ Fun Fact
-90% of the world’s data was generated in the last 2 years!
-
----
-
-## 📫 Contact Me
-- Email: [malimayank009@gmail.com](mailto:malimayank009@gmail.com)  
-- GitHub: [https://github.com/malimayank](https://github.com/malimayank)
+<!-- Side-by-side About Me Sections -->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🔭 About Me</h3>
+      <ul>
+        <li>Enhancing my Python and Data Science skills</li>
+        <li>Passionate about data analysis & ML</li>
+        <li>Solving real-world data problems</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌱 What I’m Learning</h3>
+      <ul>
+        <li>Python, Pandas, NumPy, Matplotlib, Seaborn</li>
+        <li>Machine Learning & Data Visualization</li>
+        <li>Building real-world Data Science projects</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👯 Collaboration</h3>
+      <ul>
+        <li>Open to collaborate on beginner-intermediate projects</li>
+        <li>Looking for guidance on Data Science concepts</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>💬 Ask Me About</h3>
+      <ul>
+        <li>Python, Data Analysis, Machine Learning</li>
+        <li>Data Visualization, Pandas, NumPy</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>⚡ Fun Fact</h3>
+      <ul>
+        <li>90% of the world’s data generated in last 2 years!</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>📫 Contact Me</h3>
+      <ul>
+        <li>Email: <a href="mailto:malimayank009@gmail.com">malimayank009@gmail.com</a></li>
+        <li>GitHub: <a href="https://github.com/malimayank">malimayank</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -69,11 +88,15 @@ Python, Data Analysis, Machine Learning, Data Visualization, Pandas, NumPy
 
 ---
 
-## 🏆 Hacktoberfest & Holopin
+## 🏆 Achievements & Contributions
 <p align="center">
   <a href="https://holopin.io/@mayanksundesha">
     <img src="https://holopin.me/mayanksundesha" alt="Holopin Badges" width="350"/>
   </a>
+</p>
+
+<p align="center">
+  Actively participating in open-source projects and recognized for contributions through Hacktoberfest and Holopin badges.
 </p>
 
 ---
