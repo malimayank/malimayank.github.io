@@ -1,65 +1,34 @@
-<h1 align="center">Hi 👋, I'm Mayank Mali</h1>
-<h3 align="center">Predicting Outcomes Using Real-World Data with Machine Learning</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malimayank&label=Profile%20views&color=0e75b6&style=flat" alt="malimayank" />
-  <img src="https://github-profile-trophy.vercel.app/?username=malimayank&theme=darkhub&row=1&column=6" alt="malimayank" width="600"/>
-</p>
 
 ---
 
 <!-- Side-by-side About Me Sections -->
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🔭 About Me</h3>
-      <ul>
-        <li>Enhancing my Python and Data Science skills</li>
-        <li>Passionate about data analysis & ML</li>
-        <li>Solving real-world data problems</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🌱 What I’m Learning</h3>
-      <ul>
-        <li>Python, Pandas, NumPy, Matplotlib, Seaborn</li>
-        <li>Machine Learning & Data Visualization</li>
-        <li>Building real-world Data Science projects</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>👯 Collaboration</h3>
-      <ul>
-        <li>Open to collaborate on beginner-intermediate projects</li>
-        <li>Looking for guidance on Data Science concepts</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>💬 Ask Me About</h3>
-      <ul>
-        <li>Python, Data Analysis, Machine Learning</li>
-        <li>Data Visualization, Pandas, NumPy</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>⚡ Fun Fact</h3>
-      <ul>
-        <li>90% of the world’s data generated in last 2 years!</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>📫 Contact Me</h3>
-      <ul>
-        <li>Email: <a href="mailto:malimayank009@gmail.com">malimayank009@gmail.com</a></li>
-        <li>GitHub: <a href="https://github.com/malimayank">malimayank</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Mayank Mali</h1>
+<h3 align="center">Predicting Outcomes Using Real-World Data with Machine Learning</h3>
+
+ <p align="center">
+ 
+  <img src="https://github-profile-trophy.vercel.app/?username=malimayank&theme=darkhub&row=1&column=6" alt="malimayank" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malimayank&label=Profile%20views&color=0e75b6&style=flat" alt="malimayank" />
+</p>
+
+---
+
+## 🔭 About Me
+Currently working on **enhancing my Python and Data Science skills**.  
+Passionate about **data analysis, machine learning, and predictive modeling**.  
+Interested in **solving real-world problems with data-driven solutions**.
+
+---
+
+## 📫 Contact Me
+- Email: [malimayank009@gmail.com](mailto:malimayank009@gmail.com)  
+- GitHub: [https://github.com/malimayank](https://github.com/malimayank)  
+- LinkedIn: [https://www.linkedin.com/in/mayank-mali/](https://www.linkedin.com/in/mayank-mali/)
+
 
 ---
 
@@ -78,12 +47,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malimayank&show_icons=true&theme=radical&count_private=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malimayank&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malimayank&show_icons=true&theme=radical&count_private=true&hide_border=true" width="25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malimayank&layout=compact&theme=radical&hide_border=true" width="25%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malimayank&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malimayank&theme=radical&hide_border=true" alt="GitHub Streak" width="25%" />
 </p>
 
 ---
